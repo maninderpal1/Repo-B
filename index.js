@@ -1,4 +1,4 @@
 function fn() {
-    var log = 'Bar';
+    var log = 'Bass';
     console.log('Printing ', log);
 }

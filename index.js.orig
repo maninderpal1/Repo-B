@@ -1,0 +1,8 @@
+function fn() {
+<<<<<<< HEAD
+    var log = 'Bar';
+=======
+    var log = 'Bass';
+>>>>>>> 8e7a172fe37bb1da2f695a796d3dc716bdad2121
+    console.log('Printing ', log);
+}
